@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanyashree M V</h1>
 <h3 align="center">Totally into Machine Learning!</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyashree-mv&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyashree-mv" /> </p>
 
@@ -29,4 +29,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanyashree-mv&show_icons=true&locale=en&layout=compact" alt="dhanyashree-mv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyashree-mv&" alt="dhanyashree-mv" /></p>
+
+
+
+
 
